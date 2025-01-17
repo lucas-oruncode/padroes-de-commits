@@ -2,7 +2,7 @@
 
 Este guia segue o padrão **[Conventional Commits](https://www.conventionalcommits.org/pt-br)**, fornecendo regras claras para mensagens de commit padronizadas e organizadas.
 
-## Tipos de Commit 🦄
+## Tipos de Commit :octocat:
 
 - **`feat`**: Adiciona um novo recurso.
 - **`fix`**: Corrige um bug.
@@ -17,7 +17,7 @@ Este guia segue o padrão **[Conventional Commits](https://www.conventionalcommi
 - **`cleanup`**: Remove código desnecessário ou comentado.
 - **`remove`**: Exclui arquivos ou funcionalidades obsoletas.
 
-## Boas Práticas 🎉
+## Boas Práticas 🗒️
 
 - Use um título direto (até 4 palavras).
 - Forneça detalhes no corpo do commit, quando necessário.

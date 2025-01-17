@@ -34,12 +34,12 @@ Este guia segue o padrão **[Conventional Commits](https://www.conventionalcommi
 
 | Comando Git                                      | Resultado                                  |
 |-------------------------------------------------|-------------------------------------------|
-| `git commit -m ":tada: Commit inicial"`         | Commit inicial                            |
-| `git commit -m ":bug: fix: Corrige bug"`        | fix: Corrige bug                          |
-| `git commit -m ":sparkles: feat: Adiciona login"` | feat: Adiciona login                     |
-| `git commit -m ":zap: perf: Otimiza performance"` | perf: Otimiza performance                |
-| `git commit -m ":recycle: refactor: Refatora código"` | refactor: Refatora código              |
-| `git commit -m ":broom: cleanup: Remove código comentado"` | cleanup: Remove código comentado      |
+| `git commit -m "Commit inicial"`         | Commit inicial                            |
+| `git commit -m "fix: Corrige bug"`        | fix: Corrige bug                          |
+| `git commit -m "feat: Adiciona login"` | feat: Adiciona login                     |
+| `git commit -m "perf: Otimiza performance"` | perf: Otimiza performance                |
+| `git commit -m "refactor: Refatora código"` | refactor: Refatora código              |
+| `git commit -m "cleanup: Remove código comentado"` | cleanup: Remove código comentado      |
 
 ## Comandos Git Essenciais 📂
 
